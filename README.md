@@ -1,4 +1,4 @@
-# la-aws-security_specialty
+# Linux Academy-aws-security_specialty
 
 AWS Certified Security - Specialty Certification
 
